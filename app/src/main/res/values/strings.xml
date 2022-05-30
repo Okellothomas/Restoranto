@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRestauranto</string>
+    <string name="my_restaurant">My Restaurant</string>
+    <string name="myrestaurant">MyRestaurant</string>
+    <string name="find_restaurant">Find Restaurant</string>
+    <string name="todo">TODO</string>
+    <string name="okello_is_here">Okello is here</string>
+    <string name="tod">TODO</string>
+    <string name="name">Name</string>
+    <string name="restaurant_near">Restaurant_near</string>
+</resources>
